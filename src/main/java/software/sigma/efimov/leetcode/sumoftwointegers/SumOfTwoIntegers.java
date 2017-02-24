@@ -1,4 +1,4 @@
-package software.sigma.efimov.leetcode.SumofTwoIntegers;
+package software.sigma.efimov.leetcode.sumoftwointegers;
 
 /**
  * Created by alexandr.efimov on 2/9/2017.

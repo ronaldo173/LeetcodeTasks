@@ -17,8 +17,7 @@ import java.util.List;
  * Should return [1,2,3,6,9,8,7,4,5].
  * <p>
  * <p>
- * Created by alexandr.efimov on 2/23/2017.
- */
+ * Created by alexandr.efimov on 2/23/2017. */
 public class SpiralMatrix {
 
     public List<Integer> spiralOrder(int[][] matrix) {

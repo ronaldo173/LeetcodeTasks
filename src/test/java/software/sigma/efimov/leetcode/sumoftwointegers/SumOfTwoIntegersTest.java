@@ -1,4 +1,4 @@
-package software.sigma.efimov.leetcode.SumofTwoIntegers;
+package software.sigma.efimov.leetcode.sumoftwointegers;
 
 import org.junit.Assert;
 import org.junit.Test;
